@@ -1,0 +1,15 @@
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\bin\Debug\net6.0\Phdtocsvconversion.exe
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\bin\Debug\net6.0\Phdtocsvconversion.deps.json
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\bin\Debug\net6.0\Phdtocsvconversion.runtimeconfig.json
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\bin\Debug\net6.0\Phdtocsvconversion.dll
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\bin\Debug\net6.0\Phdtocsvconversion.pdb
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\obj\Debug\net6.0\Phdtocsvconversion.csproj.AssemblyReference.cache
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\obj\Debug\net6.0\Phdtocsvconversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\obj\Debug\net6.0\Phdtocsvconversion.AssemblyInfoInputs.cache
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\obj\Debug\net6.0\Phdtocsvconversion.AssemblyInfo.cs
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\obj\Debug\net6.0\Phdtocsvconversion.csproj.CoreCompileInputs.cache
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\obj\Debug\net6.0\Phdtocsvconversion.dll
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\obj\Debug\net6.0\refint\Phdtocsvconversion.dll
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\obj\Debug\net6.0\Phdtocsvconversion.pdb
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\obj\Debug\net6.0\Phdtocsvconversion.genruntimeconfig.cache
+C:\Users\H496420\Documents\phdtocsvconversion\Phdtocsvconversion\obj\Debug\net6.0\ref\Phdtocsvconversion.dll
